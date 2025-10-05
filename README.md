@@ -35,5 +35,5 @@ This project provides API endpoints for managing **Listings** and **Bookings** f
 
 ## Author
 
-Your Name
+Seth Kipsang Mutuba
 
